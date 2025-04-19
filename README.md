@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Khaled Ammar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledammartz&label=Profile%20views&color=0e75b6&style=flat" alt="khaledammartz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledammartz" alt="khaledammartz" /></a> </p>
 
 - 🔭 I’m currently working on [APP Store](https://github.com/KhaledAmmarTZ/APP_Store)
 
@@ -16,6 +16,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KhaledAmmarTZ](https://github.com/KhaledAmmarTZ)
 
 - 📫 How to reach me **khaledammartz@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledammartz" alt="khaledammartz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
