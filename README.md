@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="banner.png" alt="Khaled Ammar Banner" style="height: 200px;" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Khaled Ammar</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Bangladesh</h3>
