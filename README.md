@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=khaledammartz&label=Profile%20views&color=0e75b6&style=flat" alt="khaledammartz" /> 
 </p>
 
-- 🔭 I’m currently working on [APP Store](https://github.com/KhaledAmmarTZ/my-portfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/KhaledAmmarTZ/my-portfolio)
 
 - 🌱 I’m currently learning **Laravel, CSS, UI/UX**
 
